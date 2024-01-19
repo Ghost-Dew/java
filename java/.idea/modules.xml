@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access modifier/Access modifier.iml" filepath="$PROJECT_DIR$/Access modifier/Access modifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeblock/Codeblock.iml" filepath="$PROJECT_DIR$/Codeblock/Codeblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final_/Final_.iml" filepath="$PROJECT_DIR$/Final_/Final_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiangmu/lingqiantong/House_rentalsystem/House_rentalsystem.iml" filepath="$PROJECT_DIR$/xiangmu/lingqiantong/House_rentalsystem/House_rentalsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objectdetail/Objectdetail/Objectdetail.iml" filepath="$PROJECT_DIR$/Objectdetail/Objectdetail/Objectdetail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Static/Static.iml" filepath="$PROJECT_DIR$/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bao/bao.iml" filepath="$PROJECT_DIR$/bao/bao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breakpoint debugging/breakpoint debugging.iml" filepath="$PROJECT_DIR$/breakpoint debugging/breakpoint debugging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objectdetail/calendar/calendar.iml" filepath="$PROJECT_DIR$/Objectdetail/calendar/calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extends/extends.iml" filepath="$PROJECT_DIR$/extends/extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiangmu/lingqiantong/lingqiantong/lingqiantong.iml" filepath="$PROJECT_DIR$/xiangmu/lingqiantong/lingqiantong/lingqiantong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/override/override.iml" filepath="$PROJECT_DIR$/override/override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poly/poly.iml" filepath="$PROJECT_DIR$/poly/poly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super/super.iml" filepath="$PROJECT_DIR$/super/super.iml" />
+    </modules>
+  </component>
+</project>
